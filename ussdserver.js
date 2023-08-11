@@ -1,3 +1,6 @@
+API_KEY=40e4c6b2dafd74ac3d6615f860b68f143f82eea82957f612a205395bfeb1f737
+CONNECTION_STRING =mongodb+srv://simple-webber:admin@myatlasclusteredu.lkdai4s.mongodb.net/digibox?retryWrites=true&w=majority
+
 const express = require('express');
 const bodyParser = require('body-parser');
 const bcryptjs = require('bcryptjs');
